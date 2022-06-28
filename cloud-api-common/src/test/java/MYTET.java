@@ -17,5 +17,6 @@ public class MYTET {
         System.out.println(zonedDateTime);
         System.out.println("second times to commit code!");
         System.out.println("hot-fix分支");
+        System.out.println("news push to github");
     }
 }
