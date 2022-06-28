@@ -18,5 +18,6 @@ public class MYTET {
         System.out.println("second times to commit code!");
         System.out.println("hot-fix分支");
         System.out.println("news push to github");
+        System.out.println("在github上增加了一行代码");
     }
 }
